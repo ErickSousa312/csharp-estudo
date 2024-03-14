@@ -1,0 +1,6 @@
+dotnet new web -o TodoApi
+
+dotnet run 
+
+listar versões .net :
+- dotnet --list-sdks
